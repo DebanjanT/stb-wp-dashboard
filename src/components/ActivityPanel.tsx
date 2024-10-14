@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
 const ActivityPanel: React.FC = () => {
   const recentlyPublished = [
-    { title: 'Post Sample Number 3', date: 'Today, 3:46 pm' },
-    { title: 'Post Sample Number 2', date: 'Today, 3:46 pm' },
-    { title: 'Post Sample Number 1', date: 'Today, 3:46 pm' },
+    { title: "Post Sample Number 3", date: "Today, 3:46 pm" },
+    { title: "Post Sample Number 2", date: "Today, 3:46 pm" },
+    { title: "Post Sample Number 1", date: "Today, 3:46 pm" },
   ];
 
   return (
